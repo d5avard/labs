@@ -1,0 +1,2 @@
+### Summary
+This Go program defines a function boring that prints a message along with an incrementing counter indefinitely, pausing for a random duration between 0 and 999 milliseconds between each print. The main function calls boring with the argument "boring!", causing it to start printing "boring!" followed by the counter value at random intervals. The program runs indefinitely because the loop in boring has no termination condition.

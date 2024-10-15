@@ -1,0 +1,2 @@
+### Summary
+This repository contains a series of Go labs designed to demonstrate various concepts in Go programming. Each lab focuses on a specific topic, such as concurrent execution using goroutines and channels, and includes example code and explanations. The labs are structured to help users understand and practice different aspects of Go programming through hands-on exercises.

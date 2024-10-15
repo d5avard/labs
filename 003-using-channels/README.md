@@ -1,0 +1,2 @@
+### Summary
+This Go program demonstrates concurrent execution using goroutines and channels. It defines a boring function that sends a message with an incrementing counter to a channel at random intervals. The main function creates a channel, starts the boring function in a new goroutine, and then receives and prints five messages from the channel. After receiving five messages, it prints a final message and exits.
